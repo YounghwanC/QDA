@@ -32,5 +32,11 @@ This notebook is an extension of the `Discriminative-vs-QDA-One-Gaussian.ipynb` 
 This notebook provides a more advanced visualization technique to better understand the decision boundaries in 3D space.
 
 ## License
+This work is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the content in this repository, provided you give appropriate credit to the original author.
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Contributing
+Contributions to this repository are welcome. If you have suggestions or improvements, feel free to open an issue or submit a pull request.
+
+## Contact
+For any questions or further information, please contact:
+- **Younghwan Brian Cho** - [yhcho9270@gmail.com](yhcho9270@gmail.com)
