@@ -31,18 +31,6 @@ This notebook is an extension of the `Discriminative-vs-QDA-One-Gaussian.ipynb` 
 
 This notebook provides a more advanced visualization technique to better understand the decision boundaries in 3D space.
 
-## Installation and Requirements
+## License
 
-To run these notebooks, you will need the following Python libraries:
-
-- `numpy`
-- `torch`
-- `matplotlib`
-- `scikit-learn`
-- `mayavi`
-- `jupyterlab` or `notebook`
-
-You can install these dependencies via pip:
-
-```bash
-pip install numpy torch matplotlib scikit-learn mayavi jupyterlab
+This project is licensed under the MIT License. See the LICENSE file for details.
